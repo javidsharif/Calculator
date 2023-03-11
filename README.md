@@ -1,2 +1,2 @@
-# src
+# Calculator
  CalculatorApp
